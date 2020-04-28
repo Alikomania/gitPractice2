@@ -9,7 +9,7 @@ public class HappyBirthday {
             System.out.println("Happy Birthday!");
             System.out.println("Happy Birthday!");
         
-        System.out.println("Happ Birthday to you!");
+        System.out.println("Happy Birthday to you!");
 
 
     }
