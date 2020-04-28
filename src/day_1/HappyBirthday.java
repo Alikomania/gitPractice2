@@ -5,9 +5,9 @@ public class HappyBirthday {
 
         // Happy Birthday to you!
         
-        System.out.println("Happy Birthday!")
-            System.out.println("Happy Birthday!")
-            System.out.println("Happy Birthday!")
+        System.out.println("Happy Birthday!");
+            System.out.println("Happy Birthday!");
+            System.out.println("Happy Birthday!");
 
 
     }
